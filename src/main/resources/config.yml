@@ -1,0 +1,9 @@
+# TextOverlay Configuration
+# Use this file to translate messages from other plugins.
+# Format: "Original Message": "Translated Message"
+
+translations:
+  "Welcome to the server!": "&aبه سرور خوش آمدید!"
+  "You don't have permission": "&cشما اجازه دسترسی به این دستور را ندارید."
+  "Invalid command": "&eدستور اشتباه است."
+  "Join the Hypixel network": "&bبه شبکه هایپیکسل بپیوندید!"

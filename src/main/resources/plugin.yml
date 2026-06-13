@@ -1,0 +1,9 @@
+name: TextOverlay
+version: 1.1
+main: me.translation.TextOverlay
+api-version: 1.20
+depend: [ProtocolLib]
+commands:
+  language:
+    description: Change your display language.
+    usage: /language select <persian|english>
